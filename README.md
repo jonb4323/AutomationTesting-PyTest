@@ -9,7 +9,7 @@ A simple test automation project using PyTest to verify the functionality of a b
   - Division <br/> 
   - Division by zero handling <br/>
   
-  **Uses `pytest` with proper exception testing**
+  **'PyTest` with exception testing**
 
 If you want to test it: <br/>
 git clone https://github.com/your-username/pycalc-tester.git <br/>
