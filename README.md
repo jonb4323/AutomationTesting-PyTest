@@ -12,6 +12,6 @@ A simple test automation project using PyTest to verify the functionality of a b
   **Uses `pytest` with proper exception testing**
 
 If you want to test it: <br/>
-bash <br/>
+'''bash <br/>
 git clone https://github.com/your-username/pycalc-tester.git <br/>
 cd pycalc-tester <br/>
